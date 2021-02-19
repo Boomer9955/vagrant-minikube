@@ -27,6 +27,11 @@ Vagrant.configure("2") do |config|
     host:  8443,
     auto_correct: true
 
+    config.vm.network "forwarded_port",
+    guest: 8010,
+    host:  8010,
+    auto_correct: true
+
     config.vm.define NODE_NAME do |master|     
 
         master.vm.box = IMAGE_NAME
