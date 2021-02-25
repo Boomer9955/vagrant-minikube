@@ -39,6 +39,3 @@ Eg: Enable `metrics-server`
 - [Installing Kubernetes with Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
 - [minikube start](https://minikube.sigs.k8s.io/docs/start/)
 - [minikube](https://technology.amis.nl/2019/02/12/rapidly-spinning-up-a-vm-with-ubuntu-docker-and-minikube-using-the-vm-drivernone-option-on-my-windows-laptop-using-vagrant-and-oracle-virtualbox/)# vagrant-minikube
-
-
-EEyyyh
